@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentResultWithNavigationComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_a">Hello blank fragment A </string>
+    <string name="hello_blank_fragment_b">Hello blank fragment B </string>
+
+</resources>
